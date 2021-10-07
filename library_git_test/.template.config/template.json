@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Me",
+  "classifications": [ "Common", "library", "C#9" ],
+  "identity": "Library_Git_Test",
+  "name": "library_git_test",
+  "shortName": "library_git_test",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
