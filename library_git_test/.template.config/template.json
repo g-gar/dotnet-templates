@@ -8,5 +8,7 @@
   "tags": {
     "language": "C#",
     "type": "project"
-  }
+  },
+  "sourceName": "library_git_test",
+  "preferNameDirectory" : true
 }
