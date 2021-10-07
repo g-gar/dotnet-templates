@@ -10,3 +10,13 @@ Requires a bit of work. Listing with `dotnet new --uninstall` will present all t
 ```
 dotnet new --uninstall <original_template_path>
 ```
+
+## TEMPLATES
+
+### library_git_test
+Creates an empty library project with no source files (.cs), base folders (`src\` and `test\`) and following NuGet packages:
+
+| PACKAGE                	| VERSION 	|
+|------------------------	|---------	|
+| Microsoft.NET.Test.Sdk 	| 16.11.0 	|
+| NUnit                  	| 3.13.2  	|
